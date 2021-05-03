@@ -1,7 +1,7 @@
 EXOMOL.def                                                                      # ID
 (14N)(16O)                                                                      # IsoFormula
 14N-16O                                                                         # Iso-slug
-XABC                                                                          # Isotopologue dataset name
+XABC                                                                            # Isotopologue dataset name
 20210422                                                                        # Version number with format YYYYMMDD
 MWUXSHHQAYIFBG-UHFFFAOYSA-N                                                     # Inchi key of molecule
 2                                                                               # Number of atoms
@@ -9,7 +9,7 @@ MWUXSHHQAYIFBG-UHFFFAOYSA-N                                                     
 N                                                                               # Element symbol 1 
 16                                                                              # Isotope number 2 
 O                                                                               # Element symbol 2 
-   29.9979886  4.98128312e-23                                                     # Isotopologue mass (Da) and (kg)
+   29.9979886  4.98128312e-23                                                   # Isotopologue mass (Da) and (kg)
 C                                                                               # Symmetry group
 2                                                                               # Number of irreducible representations
 1                                                                               # Irreducible representation ID
@@ -54,7 +54,7 @@ Omega = Lambda + Sigma, projection of the total angular momentum                
 e/c                                                                             # Quantum label 8
 A3 %3s                                                                          # Format quantum label 8
 Quantum number e/c
-4596666                                                                        # Total number of transitions
+4596666                                                                         # Total number of transitions
 1                                                                               # No. of transition files
 63000.00                                                                        # Maximum wavenumber (in cm-1)
 65000.00                                                                        # Higher energy with complete set of transitions (in cm-1)
